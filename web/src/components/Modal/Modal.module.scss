@@ -1,0 +1,42 @@
+.modal {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  padding: 0;
+}
+.content {
+    display: flex;
+    padding: 10px;
+    overflow-y: auto;
+
+    .img {
+        height: 100%;
+        width: 250px;
+        padding: 10px;
+    }
+    .detail {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+
+  button {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-weight: bold;
+    outline: none;
+  }
+}

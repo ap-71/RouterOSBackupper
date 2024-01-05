@@ -1,0 +1,72 @@
+[
+  {
+    "state": "active",
+    "id": 111,
+    "name": "mt-tl-01",
+    "description": "Test device",
+    "model": "RB1100",
+    "pic": "logo192.png",
+    "last_active": "11-12-2023",
+    "last_backup": "11-12-2023",
+    "backup_interval_days": 7,
+    "host": "127.0.0.1",
+    "port": "22",
+    "proto": "ssh"
+  },
+  {
+    "state": "active",
+    "id": 112,
+    "name": "mt-tl-02",
+    "description": "Test device",
+    "model": "RB1100",
+    "pic": "logo192.png",
+    "last_active": "11-12-2023",
+    "last_backup": "11-12-2023",
+    "backup_interval_days": 7,
+    "host": "127.0.0.2",
+    "port": "22",
+    "proto": "ssh"
+  },
+  {
+    "state": "active",
+    "id": 113,
+    "name": "mt-tl-03",
+    "description": "Test device",
+    "model": "RB1100",
+    "pic": "logo192.png",
+    "last_active": "11-12-2023",
+    "last_backup": "11-12-2023",
+    "backup_interval_days": 7,
+    "host": "127.0.0.3",
+    "port": "22",
+    "proto": "ssh"
+  },
+  {
+    "state": "offline",
+    "id": 114,
+    "name": "mt-tl-04",
+    "description": "Test device",
+    "model": "RB1100",
+    "pic": "logo192.png",
+    "last_active": "11-12-2023",
+    "last_backup": "11-12-2023",
+    "backup_interval_days": 7,
+    "host": "127.0.0.3",
+    "port": "22",
+    "proto": "ssh"
+  },
+  {
+    "state": "active",
+    "id": 115,
+    "name": "mt-tl-05",
+    "description": "Test device",
+    "model": "RB1100",
+    "pic": "logo192.png",
+    "last_active": "11-12-2023",
+    "last_backup": "11-12-2023",
+    "backup_interval_days": 7,
+    "host": "127.0.0.5",
+    "port": "22",
+    "proto": "ssh"
+  }
+]

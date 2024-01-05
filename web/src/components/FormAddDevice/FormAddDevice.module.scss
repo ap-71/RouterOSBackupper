@@ -1,0 +1,31 @@
+.form {
+    width: 100%;
+}
+.formInput,
+.formTextarea,
+.formButton {
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+} 
+
+.formInput {
+}
+
+.formTextarea {
+    height: 70px;
+
+    textarea {
+        resize: none;
+    }
+}
+
+.formButton {
+    
+    button {
+        height: 32px;
+        cursor: pointer;
+
+    }
+}
